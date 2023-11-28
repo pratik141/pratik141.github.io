@@ -6,10 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blog Index</title>
     <link rel="stylesheet" href="css/blog.css">
-
-    <style>
-
-    </style>
+    <link rel="stylesheet" href="css/style.default.css">
 </head>
 
 <body>
@@ -21,14 +18,12 @@
         <div class="tab" onclick="filterCategory('all')">All</div>
         <div class="tab" onclick="filterCategory('OTEL')">OTEL</div>
         <div class="tab" onclick="filterCategory('Other')">Other</div>
-        <!-- Add more tabs for additional categories -->
 
         <div class="blog-box">
             <ul class="blog-list" id="blogList">
                 <!-- Blog items will be dynamically added here -->
             </ul>
         </div>
-
     </div>
 
     <script>
@@ -81,7 +76,10 @@
             })
             .catch(error => console.error('Error fetching blog list:', error));
     </script>
-
 </body>
+
+<footer align="center">
+    <p><a href="/" style="color: black;">Home</a></p>
+</footer>
 
 </html>

@@ -73,3 +73,11 @@ h1 {
 .blog-date {
     color: #6c757d;
 }
+
+footer {
+    background-color: #0056b3;
+    position: fixed;
+    bottom: 5%;
+    width: 100%;
+    text-align: center;
+}
