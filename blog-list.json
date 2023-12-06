@@ -4,5 +4,17 @@
         "date": "2023-11-25",
         "category": "OTEL",
         "href": "https://www.linkedin.com/pulse/otel-otlp-next-level-monitoring-opentelemetry-pratik-anand-slmpe"
+    },
+    {
+        "title": "OpenTelemetry Collector and Its Flavors",
+        "date": "2023-11-30",
+        "category": "OTEL",
+        "href": "https://www.linkedin.com/pulse/opentelemetry-collector-its-flavors-pratik-anand-uqike"
+    },
+    {
+        "title": "OpenTelemetry Collector Deployment Part - I",
+        "date": "2023-12-06",
+        "category": "OTEL",
+        "href": "https://www.linkedin.com/pulse/opentelemetry-collector-deployment-part-i-pratik-anand-iysqe"
     }
 ]
