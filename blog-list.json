@@ -16,5 +16,17 @@
         "date": "2023-12-06",
         "category": "OTEL",
         "href": "https://www.linkedin.com/pulse/opentelemetry-collector-deployment-part-i-pratik-anand-iysqe"
+    },
+    {
+        "title": "OpenTelemetry Collector Deployment Part - II",
+        "date": "2023-12-13",
+        "category": "OTEL",
+        "href": "https://www.linkedin.com/pulse/opentelemetry-collector-deployment-part-ii-pratik-anand-ixrje"
+    },
+    {
+        "title": "GitLab Multi-project Pipelines",
+        "date": "2023-12-16",
+        "category": "CICD",
+        "href": "https://www.linkedin.com/pulse/gitlab-multi-project-pipelines-pratik-anand-6liaf"
     }
 ]
